@@ -1,0 +1,12 @@
+.container{
+    height: 250px;
+    width: 350px;
+}
+input{
+    border: 1px solid black;
+}
+h1{
+  margin-bottom: 50px;
+  margin-right: 20px;
+  text-decoration: underline;
+}
